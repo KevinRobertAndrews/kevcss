@@ -1,0 +1,12 @@
+{
+  "name": "kevcss",
+  "version": "0.1.0",
+  "description": "My personal stylebelt. Share freely! - Kevin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Robert Andrews <kevinrobertandrews@gmail.com>",
+  "license": "MIT"
+}
